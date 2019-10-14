@@ -1,7 +1,7 @@
 #import module
 import os
 from math import *
-# we are going to solve a secind degree equaation in Pyton
+# we are going to solve a second degree equaation in Pyton
 #function second_degree
 
 def second_degree_equation(a,b,c):
